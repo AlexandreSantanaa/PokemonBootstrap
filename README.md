@@ -1,2 +1,2 @@
-# Projeto11 - LandingPage Bootstrap
+# Pokemon Bootstrap
  Pagina responsiva usando bootstrap
